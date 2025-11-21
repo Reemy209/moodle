@@ -41,5 +41,6 @@ jobs:
           args: >
             -Dsonar.projectKey=Reemy209/moodle
             -Dsonar.organization=Reemy209
-            -Dsonar.sources=.
+            -Dsonar.sources=moodle
             -Dsonar.language=php
+            -Dsonar.verbose=true
